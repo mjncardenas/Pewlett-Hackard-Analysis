@@ -1,4 +1,4 @@
-DROP TABLE mentorship;
+
 SELECT em.emp_no, 
 em.birth_date,
 em.first_name, 

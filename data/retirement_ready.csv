@@ -1,0 +1,169 @@
+emp_no,first_name,last_name,title,salary,from_date,to_date
+14498,Xiong,Selenyi,Senior Staff,40000,1988-10-17,9999-01-01
+14498,Xiong,Selenyi,Staff,40000,1988-10-17,9999-01-01
+16448,Tsvetan,Zwicker,Engineer,76979,1992-04-25,9999-01-01
+16448,Tsvetan,Zwicker,Senior Engineer,76979,1992-04-25,9999-01-01
+19724,Visit,Hasham,Senior Staff,69399,1988-09-09,9999-01-01
+19724,Visit,Hasham,Staff,69399,1988-09-09,9999-01-01
+20186,Jianhua,Narahari,Senior Engineer,57321,1991-09-12,9999-01-01
+23592,Marek,Templeman,Senior Staff,68278,1991-03-07,9999-01-01
+23592,Marek,Templeman,Staff,68278,1991-03-07,9999-01-01
+24508,Uzi,Penn,Engineer,66662,1992-04-25,9999-01-01
+24508,Uzi,Penn,Senior Engineer,66662,1992-04-25,9999-01-01
+28734,Arvind,Heydon,Senior Staff,83827,1989-05-06,9999-01-01
+28734,Arvind,Heydon,Staff,83827,1989-05-06,9999-01-01
+29485,Ortrun,Shobatake,Senior Staff,55230,1988-09-09,9999-01-01
+29485,Ortrun,Shobatake,Staff,55230,1988-09-09,9999-01-01
+29788,Radhia,Kaminger,Engineer,50834,1988-09-09,9999-01-01
+29788,Radhia,Kaminger,Senior Engineer,50834,1988-09-09,9999-01-01
+35110,Reinhold,Speckmann,Engineer,48028,1992-08-02,9999-01-01
+35110,Reinhold,Speckmann,Senior Engineer,48028,1992-08-02,9999-01-01
+44750,Bernice,Coors,Senior Staff,99844,1992-04-25,9999-01-01
+44750,Bernice,Coors,Staff,99844,1992-04-25,9999-01-01
+45344,Shigeo,Servieres,Engineer,63050,1992-04-25,9999-01-01
+45344,Shigeo,Servieres,Senior Engineer,63050,1992-04-25,9999-01-01
+46159,Barun,Grabner,Senior Staff,40736,1988-10-17,9999-01-01
+46281,Rosine,Berztiss,Technique Leader,40000,1992-04-25,9999-01-01
+71779,Hironoby,Cooman,Engineer,69098,1996-08-30,9999-01-01
+76250,Fumiyo,Linnainmaa,Assistant Engineer,40000,1991-03-07,9999-01-01
+76250,Fumiyo,Linnainmaa,Engineer,40000,1991-03-07,9999-01-01
+76530,Honesty,Benner,Engineer,40000,1988-09-09,9999-01-01
+76530,Honesty,Benner,Senior Engineer,40000,1988-09-09,9999-01-01
+76772,Gao,Garigliano,Senior Engineer,42932,1991-03-07,9999-01-01
+80751,Zhensheng,Swan,Senior Engineer,49178,1991-09-12,9999-01-01
+81767,Augustine,Matzov,Senior Staff,64335,1988-10-17,9999-01-01
+81767,Augustine,Matzov,Staff,64335,1988-10-17,9999-01-01
+82721,Arvind,Showalter,Senior Staff,40000,1992-04-25,9999-01-01
+82721,Arvind,Showalter,Staff,40000,1992-04-25,9999-01-01
+85899,Chinhyun,Zaiane,Senior Staff,40000,1991-09-12,9999-01-01
+85899,Chinhyun,Zaiane,Staff,40000,1991-09-12,9999-01-01
+89331,Ranga,Narahara,Engineer,40000,1992-09-08,9999-01-01
+89331,Ranga,Narahara,Senior Engineer,40000,1992-09-08,9999-01-01
+90925,Odinaldo,Bugrara,Senior Staff,40000,1989-12-17,9999-01-01
+90925,Odinaldo,Bugrara,Staff,40000,1989-12-17,9999-01-01
+92263,Takahiro,Spataro,Senior Staff,42132,1989-05-06,9999-01-01
+92263,Takahiro,Spataro,Staff,42132,1989-05-06,9999-01-01
+96844,Tommaso,Maliniak,Engineer,40000,1996-08-30,9999-01-01
+98183,Masami,Besselaar,Senior Staff,54821,1988-09-09,9999-01-01
+98183,Masami,Besselaar,Staff,54821,1988-09-09,9999-01-01
+98270,Kinh,Kawashimo,Senior Staff,56835,1992-03-21,9999-01-01
+98270,Kinh,Kawashimo,Staff,56835,1992-03-21,9999-01-01
+98753,Franziska,Murillo,Senior Staff,73479,1991-09-12,9999-01-01
+98753,Franziska,Murillo,Staff,73479,1991-09-12,9999-01-01
+101276,Shirish,Leonhardt,Engineer,62370,1988-10-17,9999-01-01
+101276,Shirish,Leonhardt,Senior Engineer,62370,1988-10-17,9999-01-01
+109699,Pintsang,Duclos,Engineer,68285,1989-12-17,9999-01-01
+109699,Pintsang,Duclos,Senior Engineer,68285,1989-12-17,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Manager,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+110183,Shirish,Ossenbruggen,Staff,48291,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Manager,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+111692,Tonny,Butterworth,Staff,40000,1985-01-01,9999-01-01
+202271,Josyula,Benner,Staff,71249,1996-08-30,9999-01-01
+204206,Nathalie,Picci,Senior Staff,52432,1996-01-03,9999-01-01
+204206,Nathalie,Picci,Staff,52432,1996-01-03,9999-01-01
+207854,Kazuhito,Assaf,Senior Staff,40000,1994-06-28,9999-01-01
+212762,Kauko,Lung,Senior Staff,43095,1988-10-17,9999-01-01
+212762,Kauko,Lung,Staff,43095,1988-10-17,9999-01-01
+214716,Hironobu,Makrucki,Senior Staff,69425,1988-10-17,9999-01-01
+216191,Yuuichi,Bernick,Technique Leader,40000,1996-08-30,9999-01-01
+223788,Jinya,Olivero,Engineer,50891,1991-03-07,9999-01-01
+223788,Jinya,Olivero,Senior Engineer,50891,1991-03-07,9999-01-01
+226829,Godehard,Gihr,Senior Staff,45223,1992-08-02,9999-01-01
+226829,Godehard,Gihr,Staff,45223,1992-08-02,9999-01-01
+229819,Zhenbing,Delgrande,Technique Leader,53781,1988-09-09,9999-01-01
+230906,Qunsheng,Marchegay,Senior Staff,50033,1988-09-09,9999-01-01
+230906,Qunsheng,Marchegay,Staff,50033,1988-09-09,9999-01-01
+233526,Yuchang,Comyn,Engineer,40000,1992-09-08,9999-01-01
+233526,Yuchang,Comyn,Senior Engineer,40000,1992-09-08,9999-01-01
+235597,Makato,Kobara,Engineer,40000,1991-04-08,9999-01-01
+235597,Makato,Kobara,Senior Engineer,40000,1991-04-08,9999-01-01
+244750,Gaurav,Kamble,Technique Leader,40000,1988-10-17,9999-01-01
+254563,Boaz,Dulin,Senior Staff,56737,1994-06-28,9999-01-01
+256480,Demos,Ghemri,Engineer,51574,1988-10-17,9999-01-01
+256480,Demos,Ghemri,Senior Engineer,51574,1988-10-17,9999-01-01
+262292,Hyuckchul,Cardazo,Staff,54794,1994-06-28,9999-01-01
+264105,Rasikan,Lichtman,Staff,62099,1996-01-03,9999-01-01
+273843,Arvin,Beetstra,Engineer,41529,1988-10-17,9999-01-01
+273843,Arvin,Beetstra,Senior Engineer,41529,1988-10-17,9999-01-01
+279829,Iara,Stille,Staff,85334,1996-01-03,9999-01-01
+284546,Sadok,Ouhyoung,Engineer,46672,1991-04-08,9999-01-01
+284546,Sadok,Ouhyoung,Senior Engineer,46672,1991-04-08,9999-01-01
+287512,Guadalupe,Bashian,Engineer,40000,1988-10-17,9999-01-01
+287512,Guadalupe,Bashian,Senior Engineer,40000,1988-10-17,9999-01-01
+408269,Jessie,Hebert,Senior Staff,61785,1992-09-08,9999-01-01
+408269,Jessie,Hebert,Staff,61785,1992-09-08,9999-01-01
+408571,Suebskul,Sinitsyn,Senior Staff,40000,1991-10-01,9999-01-01
+410660,Chinhyun,Rusmann,Senior Staff,61244,1989-05-06,9999-01-01
+410660,Chinhyun,Rusmann,Staff,61244,1989-05-06,9999-01-01
+412942,Gian,Percebois,Senior Staff,40000,1994-06-28,9999-01-01
+413888,Spyrose,Ranze,Senior Staff,68273,1992-09-08,9999-01-01
+413888,Spyrose,Ranze,Staff,68273,1992-09-08,9999-01-01
+415403,Uri,Masand,Staff,60929,1996-01-03,9999-01-01
+415912,Gadiel,Begiun,Engineer,67977,1988-09-09,9999-01-01
+415912,Gadiel,Begiun,Senior Engineer,67977,1988-09-09,9999-01-01
+418000,Yuichiro,Alpin,Senior Staff,82805,1988-10-17,9999-01-01
+418000,Yuichiro,Alpin,Staff,82805,1988-10-17,9999-01-01
+418671,Xiaoshan,Calkin,Senior Staff,62129,1988-10-17,9999-01-01
+425809,Piyawadee,Luan,Engineer,40000,1988-10-17,9999-01-01
+425809,Piyawadee,Luan,Senior Engineer,40000,1988-10-17,9999-01-01
+428314,Mario,Plotkin,Engineer,61016,1991-09-12,9999-01-01
+428314,Mario,Plotkin,Senior Engineer,61016,1991-09-12,9999-01-01
+433203,Shigenori,Cappelli,Senior Staff,71506,1988-09-09,9999-01-01
+433203,Shigenori,Cappelli,Staff,71506,1988-09-09,9999-01-01
+439789,Almudena,Liedekerke,Senior Engineer,40000,1988-10-17,9999-01-01
+441398,Chiradeep,Eiter,Senior Staff,47380,1992-09-08,9999-01-01
+441398,Chiradeep,Eiter,Staff,47380,1992-09-08,9999-01-01
+444742,Moriyoshi,Fadgyas,Senior Staff,40000,1988-09-09,9999-01-01
+444742,Moriyoshi,Fadgyas,Staff,40000,1988-09-09,9999-01-01
+445026,Kitty,Kohling,Senior Engineer,48687,1996-01-03,9999-01-01
+449141,Yuqun,Szmurlo,Engineer,40000,1989-05-06,9999-01-01
+449141,Yuqun,Szmurlo,Senior Engineer,40000,1989-05-06,9999-01-01
+452221,Xinyu,Hainaut,Senior Staff,65502,1988-09-09,9999-01-01
+452221,Xinyu,Hainaut,Staff,65502,1988-09-09,9999-01-01
+458612,Zsolt,Suppi,Staff,59651,1996-01-03,9999-01-01
+458868,Xudong,Olano,Engineer,61484,1991-09-12,9999-01-01
+458868,Xudong,Olano,Senior Engineer,61484,1991-09-12,9999-01-01
+458922,Anneli,Demir,Engineer,45817,1992-04-25,9999-01-01
+458922,Anneli,Demir,Senior Engineer,45817,1992-04-25,9999-01-01
+464425,Shaunak,Murtafg,Senior Staff,40000,1996-08-30,9999-01-01
+467972,Xiaoshan,Magalhaes,Assistant Engineer,67039,1992-09-08,9999-01-01
+467972,Xiaoshan,Magalhaes,Engineer,67039,1992-09-08,9999-01-01
+472186,Dung,Janetzko,Senior Staff,83339,1992-03-21,9999-01-01
+488246,Paris,Honglei,Engineer,55098,1989-05-06,9999-01-01
+488246,Paris,Honglei,Senior Engineer,55098,1989-05-06,9999-01-01
+492508,Uno,Eastman,Senior Staff,51643,1988-10-17,9999-01-01
+492508,Uno,Eastman,Staff,51643,1988-10-17,9999-01-01
+498314,Zita,Liesche,Assistant Engineer,40000,1988-09-09,9999-01-01
+498314,Zita,Liesche,Engineer,40000,1988-09-09,9999-01-01
